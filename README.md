@@ -27,5 +27,5 @@ or
 
 <b> Screenshots <b>
     
-    Landing Screen :
-<img src="https://github.com/sayyidalharis/pamtask3sayyid/blob/main/screenshots/homePage.jpeg">
+Landing Screen :
+<img src="https://github.com/sayyidalharis/pamtask3sayyid/tree/master/screenshots/homePage.jpeg">
