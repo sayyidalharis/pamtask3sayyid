@@ -1,5 +1,5 @@
 import React, { useState }  from 'react'
-import { StyleSheet, View, Text, TextInput, TouchableOpacity, Picker } from 'react-native'
+import { StyleSheet, View, Text, TouchableOpacity, Picker } from 'react-native'
 import MaterialCommunityIcons from 'react-native-vector-icons/MaterialCommunityIcons';
 import Entypo from 'react-native-vector-icons/Entypo';
 import FontAwesome from 'react-native-vector-icons/FontAwesome';
