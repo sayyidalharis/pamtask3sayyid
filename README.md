@@ -5,7 +5,7 @@
 
     Nama    : Sayyid Muhammad Umar Al Haris
     NIM     : 119140190
-    PENGEMBANGAN APLIKASI MOBILE - RD
+    Kelas   : Pengembangan Aplikasi Mobile - RD
 
 Extra dependencies:
  - <a href="https://reactnavigation.org/docs/getting-started"><b>React Navigation</b></a>
