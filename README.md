@@ -23,3 +23,9 @@ or
 or
 
     expo start
+
+
+<b> Screenshots <b>
+    
+    Landing Screen :
+<img src="https://github.com/sayyidalharis/pamtask3sayyid/blob/main/screenshots/homePage.jpeg">
