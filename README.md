@@ -28,4 +28,4 @@ or
 <b> Screenshots <b>
     
 Landing Screen :
-<img src="https://github.com/sayyidalharis/pamtask3sayyid/blob/master/screenshots/homePage.jpeg">
+<img src="https://github.com/sayyidalharis/pamtask3sayyid/blob/master/screenshots/homePage.jpeg" height="20%">
