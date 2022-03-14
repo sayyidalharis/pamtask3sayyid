@@ -29,4 +29,4 @@ or
     
 Landing Screen :
     
-<img src="https://github.com/sayyidalharis/pamtask3sayyid/blob/master/screenshots/homePage.jpeg" height=1000>
+<img src="https://github.com/sayyidalharis/pamtask3sayyid/blob/master/screenshots/homePage.jpeg" height=1000 width="50%">
